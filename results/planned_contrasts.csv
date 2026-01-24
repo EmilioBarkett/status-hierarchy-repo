@@ -1,0 +1,5 @@
+condition1,condition2,condition1_rate,condition2_rate,difference,chi2,p_value,cohens_h,effect_interpretation,contrast_description,p_value_corrected,significant_corrected
+same_standard,same_equal,0.62,0.46,0.15999999999999998,1.9726247987117551,0.16016952981024782,0.3224514310726223,small,Pure status effect (same models),0.4805085894307435,False
+different_equal,same_equal,0.7551020408163265,0.46,0.29510204081632646,7.833005886970177,0.0051300716818190786,0.6155076431116542,medium,Pure capability effect,0.020520286727276314,True
+different_standard,different_equal,0.78,0.7551020408163265,0.024897959183673546,0.003057196562835691,0.955905898177978,0.05896373692306689,negligible,Status enhancement of capability,0.955905898177978,False
+different_reversed,different_standard,0.86,0.78,0.07999999999999996,0.6097560975609756,0.43487965849578347,0.20941651893196767,small,Status reversal impact,0.8697593169915669,False

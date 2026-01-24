@@ -1,0 +1,6 @@
+trial_id,review_id,m1_profile,m2_profile,interaction_style,m1_gender,m2_gender,m1_initial,m2_initial,m1_final,m2_final,m1_changed,m2_changed,m1_toward_m2,m2_toward_m1,m1_change_magnitude,m2_change_magnitude,initial_disagreement
+1,0,PhD,High,neutral,male,male,0.12,0.15,0.12,0.15,False,False,False,False,0.0,0.0,0.03
+2,1,PhD,High,neutral,male,male,0.45,0.55,0.45,0.55,False,False,False,False,0.0,0.0,0.10000000000000003
+3,2,PhD,High,neutral,male,male,0.25,0.2,0.25,0.2,False,False,False,False,0.0,0.0,0.04999999999999999
+4,3,PhD,High,neutral,male,male,0.15,0.15,0.15,0.15,False,False,False,False,0.0,0.0,0.0
+5,4,PhD,High,neutral,male,male,0.65,0.65,0.65,0.65,False,False,False,False,0.0,0.0,0.0
